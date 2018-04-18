@@ -1,3 +1,9 @@
+# Deprecated #
+
+This repository is no longer maintained and the metric MDS function is now included in the `mathtoolbox` library: https://github.com/yuki-koyama/mathtoolbox , so please use the new library.
+
+---
+
 # Overview #
 
 This is a simple and minimum implementation of the classical multi-dimensional scaling (MDS) technique, which can be used as a header-only library. 
